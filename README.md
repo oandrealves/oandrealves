@@ -3,7 +3,7 @@
 </div>
 <br><br>
 <p align="center">
-  Sou um desenvolvedor web apaixonado por criar soluções inovadoras e funcionais para diversos tipos de projetos.<br>
+  Sou um desenvolvedor web apaixonado por criar soluções inovadoras e funcionais para diversos tipos de projetos.
   Estou sempre buscando aprender novas ferramentas e metodologias para melhorar a qualidade do meu trabalho e a satisfação dos meus clientes.
 </p>
 
