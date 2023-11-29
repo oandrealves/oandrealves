@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://github.com/oandrealves/oandrealves/assets/152190767/c2f3a946-1d25-4a9e-b8eb-8d0ee0f65c32" width="500px" height="230px">
-  
+  <img src="https://github.com/oandrealves/oandrealves/assets/152190767/bf9df797-0699-4571-bb52-22537c51c532" width="500px" height="230px">
 </div>
 <br><br>
 <p align="center">
