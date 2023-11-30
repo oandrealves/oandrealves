@@ -13,7 +13,7 @@
   <a href="https://github.com/oandrealves">
   <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api?username=oandrealves&show_icons=true&theme=date_night">
   <a href="https://github.com/oandrealves">
-  <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oandrealves&layout=compact&theme=date_night">
+  <img height="160px" widht="100px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oandrealves&layout=compact&theme=date_night">
 </div>
 
           
