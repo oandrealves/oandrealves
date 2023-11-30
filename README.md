@@ -15,11 +15,11 @@
   <a href="https://github.com/oandrealves">
   <img height="160px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oandrealves&layout=compact&theme=date_night">
 </div>
-
-<br>
+    
+<br><br>
 
 <div align="center">
-  <img height="30px" src="https://github.com/oandrealves/oandrealves/assets/152190767/c9d76223-26ef-488b-b261-c42b1c6403be">
+  <img  height="30px" src="https://github.com/oandrealves/oandrealves/assets/152190767/c9d76223-26ef-488b-b261-c42b1c6403be">
   <img  height="30px" src="https://github.com/oandrealves/oandrealves/assets/152190767/3e934cec-4b77-4e7c-bb15-e71c6b912eed">
   <img  height="30px" src="https://github.com/oandrealves/oandrealves/assets/152190767/2f52d224-0f03-4723-bd45-b975d9ccb164">
   <img  height="30px" src="https://github.com/oandrealves/oandrealves/assets/152190767/c208c2b4-1280-49e1-b940-2d710a15372c">
