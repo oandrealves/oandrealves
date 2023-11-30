@@ -8,3 +8,11 @@
   Estou sempre buscando aprender novas ferramentas e metodologias para melhorar a qualidade do meu trabalho e a satisfação dos meus clientes.
 </p>
 
+<br>
+<div>
+  <a href="https://github.com/oandrealves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oandrealves&show_icons=true&theme=date_night">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oandrealves&layout=compact">
+</div>
+
+          
